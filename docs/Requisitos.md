@@ -17,5 +17,3 @@ Consultar filmes em cartaz.
 
 ## RF06
 Consultar sessões.
-
----
