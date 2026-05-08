@@ -7,10 +7,7 @@ Uma sessão deve possuir apenas um filme.
 O horário da sessão deve respeitar a duração do filme.
 
 ## RN03
-Deve existir intervalo obrigatório entre sessões.
+Deve existir intervalo entre sessões.
 
 ## RN04
 O público não pode ultrapassar a capacidade do cinema.
-
-## RN05
-Um filme pode possuir vários atores.
